@@ -64,4 +64,4 @@ gem 'bootstrap', '~> 4.5', '>= 4.5.3'
 gem 'jquery-rails'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.6'
 
-ruby "2.6.3p62"
+ruby "3.0.0"
